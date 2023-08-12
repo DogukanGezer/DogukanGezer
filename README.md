@@ -2,4 +2,4 @@ Hello there! I'm Doğukan. I develop software using Node.js, Python, and C#, and
 
 ---
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DogukanGezer&theme=gotham)
