@@ -6,7 +6,3 @@ Hello there! I'm Doğukan. I develop software using Node.js, Python, and C#, and
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DogukanGezer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DogukanGezer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanGezer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=DogukanGezer&icon=0&color=0)](https://visitcount.itsvg.in)
